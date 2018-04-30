@@ -61,12 +61,24 @@
 // }
 
 //example of comparison opperators > < <= >=
-let hungerLevel = 5;
+// let hungerLevel = 5;
+//
+// if (hungerLevel > 7) {
+//   console.log('Time to eat!');
+// } else {
+//   console.log('We can eat later!');
+// }
 
-if (hungerLevel > 7) {
-  console.log('Time to eat!');
+let moonPhase = 'solar eclipse';
+
+if (moonPhase === 'full') {
+  console.log('Howl!');
+} else if (moonPhase === 'mostly full') {
+  console.log('Arms and legs are getting hairier.');
+} else if (moonPhase === 'mostly new') {
+  console.log('Back on two feet.');
 } else {
-  console.log('We can eat later!');
+  console.log('Invalid moon phase.');
 }
 
 
