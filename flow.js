@@ -69,17 +69,35 @@
 //   console.log('We can eat later!');
 // }
 
-let moonPhase = 'solar eclipse';
+//if/elseif statment to check for multiple options
+// let moonPhase = 'solar eclipse';
+//
+// if (moonPhase === 'full') {
+//   console.log('Howl!');
+// } else if (moonPhase === 'mostly full') {
+//   console.log('Arms and legs are getting hairier.');
+// } else if (moonPhase === 'mostly new') {
+//   console.log('Back on two feet.');
+// } else {
+//   console.log('Invalid moon phase.');
+// }
 
-if (moonPhase === 'full') {
-  console.log('Howl!');
-} else if (moonPhase === 'mostly full') {
-  console.log('Arms and legs are getting hairier.');
-} else if (moonPhase === 'mostly new') {
-  console.log('Back on two feet.');
-} else {
-  console.log('Invalid moon phase.');
-}
+// logical opperators to check for multiple true statments
+// let moonPhase = 'full';
+// let isFoggyNight = false;
+//
+// if (moonPhase === 'full' && isFoggyNight) { //it is unclear to me why the other options won't run
+//   console.log('Howl!');
+// } else if (moonPhase === 'mostly full') {
+//   console.log('Arms and legs are getting hairier.');
+// } else if (moonPhase === 'mostly new') {
+//   console.log('Back on two feet.');
+// } else {
+//   console.log('Invalid moon phase.');
+// }
+
+
+
 
 
 
